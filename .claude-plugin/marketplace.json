@@ -1,0 +1,19 @@
+{
+  "name": "texthumanize",
+  "version": "1.0.0",
+  "description": "Humanize AI-generated text using the TextHumanize engine. Supports 25 languages with automatic detection, multiple writing profiles, and AI detection scoring.",
+  "author": {
+    "name": "TextHumanize"
+  },
+  "license": "MIT",
+  "keywords": ["humanize", "ai-detection", "writing", "text", "nlp"],
+  "plugins": [
+    {
+      "name": "texthumanize",
+      "version": "1.0.0",
+      "description": "Humanize AI-generated text using the TextHumanize engine. Supports 25 languages with automatic detection, multiple writing profiles, and AI detection scoring.",
+      "repository": "https://github.com/celestine1111/texthumanize-claude-skill",
+      "commands": ["humanize"]
+    }
+  ]
+}
